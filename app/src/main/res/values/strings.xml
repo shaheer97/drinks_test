@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Drinks Recipes</string>
+    <string name="drinks_recipes">Drinks Recipes</string>
+    <string name="by_name">By Name</string>
+    <string name="by_alphabet">By First Alphabet</string>
+    <string name="margarita">Margarita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="margarita_glass">Margarita Glass</string>
+    <string name="place_all_ingredients_in_an_blender">Place All ingredients in...</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="xxx">xxx</string>
+</resources>
